@@ -1,2 +1,2 @@
 # Website
-Resources for my website
+Here you can find all the resources uploaded to my website
